@@ -61,7 +61,7 @@ Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/marcin-moldrzyk
 
 # 🏆 My past work:
 
-💳 XPcard – Full-Stack Engineer
+💳 [XPcard](https://www.xpcard.pro/) – Full-Stack Engineer 
 (Completed in just 3 weeks)
 
 Worked on a fintech platform integrating Advanzia Bank’s credit card system.
